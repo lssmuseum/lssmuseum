@@ -1,9 +1,9 @@
-- 👋 Hi, We are the Large Scale Systems Museum - @lssmuseum
+👋 Hi, We are the Large Scale Systems Museum - @lssmuseum
 
 The Large Scale Systems Museum (“LSSM”) is a public museum in New Kensington, PA (just outside Pittsburgh) that showcases the history of computing and information processing technology. 
 “Large Scale” means our primary focus is on minicomputers, mainframes, and supercomputers, but we have broad coverage of nearly all areas of computing, large and small, dating back to the 1950s.
 
-
+[Web site](https://www.lssmuseum.org/) | [Facebook](https://www.facebook.com/lssmuseum/) | [Instagram](https://www.instagram.com/lssmuseum)
 
 <!---
 lssmuseum/lssmuseum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
